@@ -1,2 +1,2 @@
 # read me
-Hello!
+Hello friends!
